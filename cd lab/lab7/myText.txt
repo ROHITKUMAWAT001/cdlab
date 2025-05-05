@@ -1,0 +1,6 @@
+This is a sample text file.
+It contains multiple lines,
+some words, and characters.
+
+You can use this file
+/*to test your Java code.
